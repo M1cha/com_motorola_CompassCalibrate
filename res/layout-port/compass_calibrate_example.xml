@@ -7,9 +7,22 @@
             <ImageView android:layout_gravity="center_horizontal" android:id="@id/calibrate_anim" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="11.0dip" />
         </LinearLayout>
     </ScrollView>
-    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@android:style/ButtonBar">
-        <Button android:ellipsize="marquee" android:id="@id/cancel_button" android:layout_width="140.0dip" android:layout_height="wrap_content" android:text="@android:string/cancel" android:singleLine="true" />
-        <View android:visibility="invisible" android:layout_width="1.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
-        <Button android:ellipsize="marquee" android:id="@id/start_button" android:layout_width="140.0dip" android:layout_height="wrap_content" android:text="@string/calibrator_start_button" android:singleLine="true" android:drawablePadding="3.0dip" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" style="?android:attr/buttonBarStyle">
+        <Button 
+	    android:id="@id/cancel_button" 
+	    android:layout_width="0dp" 
+	    android:layout_height="wrap_content"
+	    android:layout_weight="1"
+	    android:text="@android:string/cancel" 
+	    android:singleLine="true" 
+	    style="?android:attr/buttonBarButtonStyle" />
+        <Button 
+	    android:id="@id/start_button" 
+	    android:layout_width="0dp" 
+	    android:layout_height="wrap_content"
+	    android:layout_weight="1"
+	    android:text="@string/calibrator_start_button" 
+	    android:singleLine="true"
+	    style="?android:attr/buttonBarButtonStyle" />
     </LinearLayout>
 </LinearLayout>
