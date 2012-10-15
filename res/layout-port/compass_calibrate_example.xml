@@ -7,6 +7,7 @@
             <ImageView android:layout_gravity="center_horizontal" android:id="@id/calibrate_anim" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="11.0dip" />
         </LinearLayout>
     </ScrollView>
+    <View android:layout_width="match_parent" android:layout_height="1dp" android:background="?android:attr/dividerVertical" />
     <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" style="?android:attr/buttonBarStyle">
         <Button 
 	    android:id="@id/cancel_button" 
