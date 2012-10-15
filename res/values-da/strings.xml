@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kompaskalibrator</string>
+    <string name="calibrator_inst_title">Kalibrering</string>
+    <string name="calibrator_inst">Drej telefonen i en ottetalsfigur i alle mulige akser. Kompasset er kalibreret, når billedet bliver grønt.</string>
+    <string name="calibrator_face_title">Ansigt kalibreret!</string>
+    <string name="calibrator_horizontal_inst">Skub tastaturet ud for også at kalibrere skydedelen, når den er åben.</string>
+    <string name="calibrator_vertical_inst">Skub tastaturet ind for også at kalibrere skydedelen, når den er lukket.</string>
+    <string name="calibrator_quit_inst">Tryk på Afslut, hvis du allerede har kalibreret begge retninger.</string>
+    <string name="calibrator_start_button">Kalibrer</string>
+    <string name="calibrator__otherface_button">"Kalibrer
+ andet ansigt"</string>
+    <string name="calibrator_quit_button">Afslut</string>
+    <string name="calibrator_done_quit_inst">Kalibrering fuldført! Tryk på Afslut.</string>
+    <string name="calibrator_fail_message">Kalibrering mislykkedes. Prøv igen!</string>
+    <string name="calibrator_ani_inst">Drej telefonen tilbage og fremad i alle tre akser, indtil kompasbilledet bliver grønt.</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kompasskalibrerare</string>
+    <string name="calibrator_inst_title">Kalibrering</string>
+    <string name="calibrator_inst">Vrid telefonen i en rörelse som liknar en åtta i alla riktningar. Kompassen är kalibrerad när bilden blir grön.</string>
+    <string name="calibrator_face_title">Riktningen är kalibrerad!</string>
+    <string name="calibrator_horizontal_inst">Skjut ut tangentbordet för att även kalibrera när den är öppen.</string>
+    <string name="calibrator_vertical_inst">Skjut in tangentbordet för att även kalibrera när den är stängd.</string>
+    <string name="calibrator_quit_inst">Eller tryck på Avsluta om du redan kalibrerat båda riktningarna.</string>
+    <string name="calibrator_start_button">Kalibrera</string>
+    <string name="calibrator__otherface_button">"Kalibrera
+ annan riktning"</string>
+    <string name="calibrator_quit_button">Avsluta</string>
+    <string name="calibrator_done_quit_inst">Kalibreringen är slutförd! Tryck på Avsluta.</string>
+    <string name="calibrator_fail_message">Kalibreringen misslyckades. Försök igen!</string>
+    <string name="calibrator_ani_inst">Vrid telefonen fram och tillbaka i alla tre riktningar tills kompassbilden blir grön.</string>
+</resources>

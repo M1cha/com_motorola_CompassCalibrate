@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kompassin kalibrointi</string>
+    <string name="calibrator_inst_title">Kalibrointi</string>
+    <string name="calibrator_inst">Pyöritä puhelinta kahdeksikon muotoista rataa kaikkiin suuntiin. Kompassi on kalibroitu, kun kuva muuttuu vihreäksi.</string>
+    <string name="calibrator_face_title">Sivu kalibroitu!</string>
+    <string name="calibrator_horizontal_inst">Ota näppäimistö esiin, kun haluat tehdä kalibroinnin myös liukukansi avattuna.</string>
+    <string name="calibrator_vertical_inst">Ota näppäimistö esiin, kun haluat tehdä kalibroinnin myös liukukansi suljettuna.</string>
+    <string name="calibrator_quit_inst">Valitse Lopeta, jos olet kalibroinut molemmat suunnat.</string>
+    <string name="calibrator_start_button">Kalibrointi</string>
+    <string name="calibrator__otherface_button">"Kalibroi
+ toinen sivu"</string>
+    <string name="calibrator_quit_button">Lopeta</string>
+    <string name="calibrator_done_quit_inst">Kalibrointi on valmis. Valitse Lopeta.</string>
+    <string name="calibrator_fail_message">Kalibrointi epäonnistui. Yritä uudelleen.</string>
+    <string name="calibrator_ani_inst">Pyöritä puhelinta edestakaisin kaikkiin kolmeen suuntaan, kunnes kompassin kuva muuttuu vihreäksi</string>
+</resources>

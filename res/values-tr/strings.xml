@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pusula Ayarı</string>
+    <string name="calibrator_inst_title">Ayar</string>
+    <string name="calibrator_inst">Telefonu her eksende sekiz çizecek şekilde döndürün. Pusula ayarlandığında resim yeşil renk alır.</string>
+    <string name="calibrator_face_title">Bu Yüz Ayarlandı!</string>
+    <string name="calibrator_horizontal_inst">Sürgü açık durumda da ayarlama yapmak için klavyeyi açın.</string>
+    <string name="calibrator_vertical_inst">Sürgü kapalı durumda da ayarlama yapmak için klavyeyi kapatın.</string>
+    <string name="calibrator_quit_inst">"Her iki durumda da ayarlama yaptıysanız Çık'a basın."</string>
+    <string name="calibrator_start_button">Ayar</string>
+    <string name="calibrator__otherface_button">"Diğer Yüzü
+ Ayarla"</string>
+    <string name="calibrator_quit_button">Çık</string>
+    <string name="calibrator_done_quit_inst">"Ayarlama tamamlandı! Çık'a basın."</string>
+    <string name="calibrator_fail_message">Ayarlama başarısız. Lütfen tekrar deneyin!</string>
+    <string name="calibrator_ani_inst">Pusula resmi yeşil renk alıncaya kadar telefonu üç eksende de geriye ve ileriye doğru döndürün.</string>
+</resources>

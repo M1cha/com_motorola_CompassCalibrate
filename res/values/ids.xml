@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="inst_text">false</item>
+    <item type="id" name="start_button">false</item>
+    <item type="id" name="cancel_button">false</item>
+    <item type="id" name="calibrate_anim">false</item>
+</resources>

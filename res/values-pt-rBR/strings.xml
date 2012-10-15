@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calibrador da bússola</string>
+    <string name="calibrator_inst_title">Calibração</string>
+    <string name="calibrator_inst">Gire o telefone fazendo o movimento de um oito em todos os eixos possíveis. A bússola estará calibrada quando a imagem ficar verde.</string>
+    <string name="calibrator_face_title">Lado calibrado!</string>
+    <string name="calibrator_horizontal_inst">Abra o teclado para calibrar o telefone aberto também.</string>
+    <string name="calibrator_vertical_inst">Feche o teclado para calibrar o telefone fechado também.</string>
+    <string name="calibrator_quit_inst">Ou pressione Sair se você já calibrou as duas orientações.</string>
+    <string name="calibrator_start_button">Calibrar</string>
+    <string name="calibrator__otherface_button">"Calibrar
+ outro lado"</string>
+    <string name="calibrator_quit_button">Sair</string>
+    <string name="calibrator_done_quit_inst">Calibração concluída. Pressione Sair.</string>
+    <string name="calibrator_fail_message">Falha na calibração. Por favor, tente novamente.</string>
+    <string name="calibrator_ani_inst">Gire o telefone para frente e para trás nos três eixos até que a imagem da bússola fique verde.</string>
+</resources>

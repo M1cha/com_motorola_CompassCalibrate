@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kompasskalibrering</string>
+    <string name="calibrator_inst_title">Kalibrering</string>
+    <string name="calibrator_inst">Roter telefonen i en åttetallsbevegelse i alle mulige akser. Kompasset er kalibrert når bildet blir grønt.</string>
+    <string name="calibrator_face_title">Siden er kalibrert.</string>
+    <string name="calibrator_horizontal_inst">Trekk ut tastaturet for også å kalibrere med åpent tastatur.</string>
+    <string name="calibrator_vertical_inst">Skyv inn tastaturet for også å kalibrere med skjult tastatur.</string>
+    <string name="calibrator_quit_inst">Eller trykk på Avslutt hvis du allerede har kalibrert begge retningene.</string>
+    <string name="calibrator_start_button">Kalibrer</string>
+    <string name="calibrator__otherface_button">"Kalibrer
+ annen side"</string>
+    <string name="calibrator_quit_button">Avslutt</string>
+    <string name="calibrator_done_quit_inst">Kalibreringen er fullført. Trykk på Avslutt.</string>
+    <string name="calibrator_fail_message">Kalibreringen mislyktes. Prøv igjen!</string>
+    <string name="calibrator_ani_inst">Roter telefonen frem og tilbake i alle tre akser til kompassbildet blir grønt.</string>
+</resources>
